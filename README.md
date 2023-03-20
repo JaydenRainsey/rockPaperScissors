@@ -18,4 +18,4 @@ to make all characters upper case.
 5. Alert the user with the results, revealing computer's choice.
 
 
--Divide and Conquer: in progress
+-Divide and Conquer
