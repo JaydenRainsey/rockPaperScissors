@@ -12,7 +12,7 @@ also decide the winner. The logic that compares the choices will be a series of 
 -Psuedocode:
 1. User enters name with a prompt, and a message welcomes the user.
 2. Computer randomly picks rock || paper || scissor from an array, assigned to a variable.
-3. Player types in rock || paper || scissor, assigned to a variable. The input will use a method
+3. Player inputs rock || paper || scissor, assigned to a variable. The input will use a method
 to make all characters upper case.
 4. Compare the variables with coniditional statements that covers all combinations.
 5. Alert the user with the results, revealing computer's choice.
